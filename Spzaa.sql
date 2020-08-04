@@ -1,0 +1,43 @@
+
+
+
+
+
+SELECT temp_tab.datap,MAX(temp_tab.resultado) AS maximo , MIN(temp_tab.resultado) AS menor
+FROM
+(SELECT vendas.DataPedido AS datap , SUM(Quantidade) AS resultado
+FROM vendas GROUP BY vendas.DataPedido) AS temp_tab;
+ 
+
+SELECT vendas.DataPedido AS datap , SUM(Quantidade) AS resultado
+FROM vendas
+GROUP BY vendas.DataPedido;
+
+SELECT * FROM vendas;
+
+SELECT dataPedido,SUM(quantidade) FROM vendas
+GROUP BY dataPedido;
+
+SELECT  FROM vendas;
+
+SELECT * FROM 
+
+SELECT MAX (janeiro) AS max_JAN 
+Min ( janeiro) AS Min_Jan
+TRUNCATE (AVG(JANEIRO),2) AS MEDIA 
+FROM VENDEDORES;
+
+SELECT NOME , MARCO FROM VENDEDORES
+WHERE MARCO > (SELECT AVG(MARCO) FROM VENDEDORES);
+
+SELECT NOME , MARCO FROM VENDEDORES
+WHERE MARCO = (SELECT MIN(MARCO) FROM VENDEDORES);
+
+SELECT NOME
+	JANEIRO
+	FEVEREIRO
+	MARCO,
+	(JANEIRO+FEVEREIRO+MARCO) AS TOTAL,
+	(JANEIRO+FEVEREIRO+MARCO) *.25 AS DESCONTO,
+	TRUNCATE((JANEIRO+FEVEREIRO+MARCO)/3,2) AS MEDIA
+	FROM VENDEDORES;
