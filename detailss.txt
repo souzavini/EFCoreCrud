@@ -1,0 +1,25 @@
+npx create-react-app my-app
+
+npm install bootswatch - import tema especifico no app
+js no node modules
+
+
+---------------------------------------------------------------
+
+npm install react-router-dom
+
+npm install axios
+
+npm install currency-formatter --save
+
+npm install toastr
+
+
+Service,Main,Views,Components
+
+
+"node_modules/jquery/dist/jquery.min.js",
+              "node_modules/popper.js/dist/umd/popper.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+
+
