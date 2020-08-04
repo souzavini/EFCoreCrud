@@ -1,0 +1,9 @@
+C:\Users\Vini Souza\Desktop\MercadoFinal\MercadoEF\MercadoEF.Dominio\bin\Debug\netstandard2.0\MercadoEF.Dominio.deps.json
+C:\Users\Vini Souza\Desktop\MercadoFinal\MercadoEF\MercadoEF.Dominio\bin\Debug\netstandard2.0\MercadoEF.Dominio.dll
+C:\Users\Vini Souza\Desktop\MercadoFinal\MercadoEF\MercadoEF.Dominio\bin\Debug\netstandard2.0\MercadoEF.Dominio.pdb
+C:\Users\Vini Souza\Desktop\MercadoFinal\MercadoEF\MercadoEF.Dominio\obj\Debug\netstandard2.0\MercadoEF.Dominio.csprojAssemblyReference.cache
+C:\Users\Vini Souza\Desktop\MercadoFinal\MercadoEF\MercadoEF.Dominio\obj\Debug\netstandard2.0\MercadoEF.Dominio.AssemblyInfoInputs.cache
+C:\Users\Vini Souza\Desktop\MercadoFinal\MercadoEF\MercadoEF.Dominio\obj\Debug\netstandard2.0\MercadoEF.Dominio.AssemblyInfo.cs
+C:\Users\Vini Souza\Desktop\MercadoFinal\MercadoEF\MercadoEF.Dominio\obj\Debug\netstandard2.0\MercadoEF.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Vini Souza\Desktop\MercadoFinal\MercadoEF\MercadoEF.Dominio\obj\Debug\netstandard2.0\MercadoEF.Dominio.dll
+C:\Users\Vini Souza\Desktop\MercadoFinal\MercadoEF\MercadoEF.Dominio\obj\Debug\netstandard2.0\MercadoEF.Dominio.pdb
